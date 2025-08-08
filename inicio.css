@@ -1,0 +1,37 @@
+body {
+    background-color: brown;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 3em;
+    font-weight: 700;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+p {
+    font-size: 1.2em;
+    color: #d7cdcd;
+    text-align: center;
+}
+
+
+.btn {
+    background-color: #fff;
+    color: #ff0000;
+    padding: 15px 30px;
+    font-size: 1em;
+    font-weight: 700;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+}
